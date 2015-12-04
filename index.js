@@ -87,7 +87,7 @@ var go = function() {
   setTimeout(function() {
     clearInterval(timer);
     runSlideShow(go);
-  }, 200);
+  }, 20000);
 
 }
 
