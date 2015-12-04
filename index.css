@@ -120,6 +120,7 @@ header .item .bigger {
     background-color: rgb(79, 79, 79);
     padding: 10px 8%; 
     transition: display 1s easi-in;
+    text-align: center;
 }
 
 .profile {
